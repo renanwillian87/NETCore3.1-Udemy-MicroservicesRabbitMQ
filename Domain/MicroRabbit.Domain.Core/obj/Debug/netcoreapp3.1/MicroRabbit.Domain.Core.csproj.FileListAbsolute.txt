@@ -1,0 +1,9 @@
+/home/renansantos87/Sources/Study/Udemy/NETCore3.1-Udemy-MicroservicesRabbitMQ/Domain/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.deps.json
+/home/renansantos87/Sources/Study/Udemy/NETCore3.1-Udemy-MicroservicesRabbitMQ/Domain/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/home/renansantos87/Sources/Study/Udemy/NETCore3.1-Udemy-MicroservicesRabbitMQ/Domain/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/home/renansantos87/Sources/Study/Udemy/NETCore3.1-Udemy-MicroservicesRabbitMQ/Domain/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.csprojAssemblyReference.cache
+/home/renansantos87/Sources/Study/Udemy/NETCore3.1-Udemy-MicroservicesRabbitMQ/Domain/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+/home/renansantos87/Sources/Study/Udemy/NETCore3.1-Udemy-MicroservicesRabbitMQ/Domain/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.AssemblyInfo.cs
+/home/renansantos87/Sources/Study/Udemy/NETCore3.1-Udemy-MicroservicesRabbitMQ/Domain/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+/home/renansantos87/Sources/Study/Udemy/NETCore3.1-Udemy-MicroservicesRabbitMQ/Domain/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/home/renansantos87/Sources/Study/Udemy/NETCore3.1-Udemy-MicroservicesRabbitMQ/Domain/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
