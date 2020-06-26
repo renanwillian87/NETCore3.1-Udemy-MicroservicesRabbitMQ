@@ -47,6 +47,11 @@ namespace MicroRabbit.Banking.Api
             services.AddControllers();
         }
 
+        public void RegisterServices(IServiceCollection services)
+        {
+            DependencyContainer.RegisterServices(services);
+        }
+
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -69,11 +74,6 @@ namespace MicroRabbit.Banking.Api
             {
                 endpoints.MapControllers();
             });
-        }
-
-        public void RegisterServices(IServiceCollection services)
-        {
-            DependencyContainer.RegisterServices(services);
         }
     }
 }
