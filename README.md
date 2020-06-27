@@ -81,7 +81,7 @@ https://www.fosslinux.com/6339/how-to-install-rabbitmq-server-on-ubuntu-18-04-lt
 > #### tag our user ‘admin’ as ‘administrator’
 > $ sudo  rabbitmqctl set_user_tags admin administrator
 
-### Services
+### RabbitMQ Services
 > #### restart RabbitMQ service
 > $ sudo systemctl restart rabbitmq-server.service
 > #### check the ports on the server
@@ -97,7 +97,7 @@ https://www.fosslinux.com/6339/how-to-install-rabbitmq-server-on-ubuntu-18-04-lt
 > $ sudo rabbitmqctl start_app
 -----------------------------
 
-### User
+### RabbitMQ User
 > #### add user and password
 > $ sudo rabbitmqctl add_user test test
 > #### set tag [administrator]
